@@ -16,9 +16,7 @@ http://msdn.microsoft.com/en-in/library/windows/apps/hh465407.aspx
 ![My image](https://github.com/BalasubramaniM/Images/blob/master/Windows8.png)
 
 
-5. Follow same procedure for Windows Phone project too, since you are working on Universal app and also you should authenticate Windows Phone app with WNS service. Reference image below.
-
-![My image](https://github.com/BalasubramaniM/Images/blob/master/WindowsPhone.png)
+5. Follow same procedure for Windows Phone project too, since you are working on Universal app and also you should authenticate Windows Phone app with WNS service. Right click your Windows Phone project and select, Store->Associate your app with store and associate as like you did for Windows 8.
 
 6. Now create WebSite to Create WNS service.
 
