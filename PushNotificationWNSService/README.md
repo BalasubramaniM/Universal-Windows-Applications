@@ -16,16 +16,16 @@ http://msdn.microsoft.com/en-in/library/windows/apps/hh465407.aspx
 ![My image](https://github.com/BalasubramaniM/Images/blob/master/Windows8.png)
 
 
-Follow same procedure for Windows Phone project too, since you are working on Universal app and also you should authenticate Windows Phone app with WNS service. Reference image below.
+5. Follow same procedure for Windows Phone project too, since you are working on Universal app and also you should authenticate Windows Phone app with WNS service. Reference image below.
 
 ![My image](https://github.com/BalasubramaniM/Images/blob/master/WindowsPhone.png)
 
-Now create WebSite to Create WNS service.
+6. Now create WebSite to Create WNS service.
 
-Select Website in NewProject in Vs. Refer following image.
+7. Select Website in NewProject in Vs. Refer following image.
 
 ![My image](https://github.com/BalasubramaniM/Images/blob/master/Website.png)
 
-select Default Asp page, open .cs file and write functions to authenticate. Refer project for more info.
+8. Select Default Asp page, open .cs file and write functions to authenticate. Refer project for more info.
 
-Note that, its local website only for your reference. Host it 
+9. Note that, its local website only for your reference. Host it 
