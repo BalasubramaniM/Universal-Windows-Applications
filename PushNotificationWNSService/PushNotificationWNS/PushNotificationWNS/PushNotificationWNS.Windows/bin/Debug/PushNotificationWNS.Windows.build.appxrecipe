@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BALA</Machine>
+    <WindowsUser>Bala Subramani</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7aa263a2-df93-42f6-ad4b-49cc00ca95cd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\PushNotificationWNS.Windows.exe">
+      <PackagePath>PushNotificationWNS.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\Views\LandingPage.xbf">
+      <PackagePath>Views\LandingPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\PushNotificationWNS.Windows.xr.xml">
+      <PackagePath>PushNotificationWNS.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

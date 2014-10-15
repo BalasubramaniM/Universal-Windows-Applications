@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BALA</Machine>
+    <WindowsUser>Bala Subramani</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7aa263a2-df93-42f6-ad4b-49cc00ca95cd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8E99605864718A21F4A0C6821712B1201F61228BCC9F7F3EBD040D52553E921E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7aa263a2-df93-42f6-ad4b-49cc00ca95cd_1.0.0.0_neutral__pg5ht3jm52h66</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7aa263a2-df93-42f6-ad4b-49cc00ca95cd_pg5ht3jm52h66!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7aa263a2-df93-42f6-ad4b-49cc00ca95cd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bala Subramani</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-14T12:54:02.432</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\PushNotificationWNS.Windows.exe">
+      <PackagePath>PushNotificationWNS.Windows.exe</PackagePath>
+      <Modified>2014-10-14T12:54:02.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-14T07:21:14.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-14T12:54:02.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+      <Modified>2014-10-14T12:54:02.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\Views\LandingPage.xbf">
+      <PackagePath>Views\LandingPage.xbf</PackagePath>
+      <Modified>2014-10-14T12:54:02.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-14T12:54:02.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\PushNotificationWNS.Windows.xr.xml">
+      <PackagePath>PushNotificationWNS.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-14T12:00:26.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bala Subramani\Documents\Visual Studio 2013\Projects\PushNotificationWNS\PushNotificationWNS\PushNotificationWNS.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-14T12:54:02.363</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
